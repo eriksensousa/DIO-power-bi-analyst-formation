@@ -2,4 +2,3 @@ Este é o meu repositório de projetos desenvolvidos durante a Formação Power 
 
 Com acesso a recursos de estudo e desenvolvimento de projetos, pude aplicar meus conhecimentos em situações reais, criando soluções baseadas em boas práticas e regras formais. O GitHub é uma plataforma ideal para hospedar esses projetos, pois permite que os participantes acessem e compartilhem o conteúdo com facilidade, além de facilitar a colaboração entre os alunos e os instrutores.
 
-https://www.dio.me/certificate/BAF9A150
