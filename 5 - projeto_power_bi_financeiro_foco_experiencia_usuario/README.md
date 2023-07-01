@@ -14,7 +14,3 @@ Por fim, no quinto painel, é possível encontrar análises estatísticas import
 
 Com esse relatório, é possível responder perguntas importantes como: qual é o desempenho de vendas da empresa ao longo do tempo? Quais são os segmentos, países e produtos que estão trazendo mais vendas? Como os descontos estão afetando as vendas e o lucro da empresa? Como a empresa está lucrando com as vendas? Quais são os padrões e correlações entre as variáveis?
 Com base nessas informações, é possível tomar decisões estratégicas mais embasadas e alavancar o sucesso do negócio.
-
-Acesse o Projeto completo pelo link.
-https://app.powerbi.com/view?r=eyJrIjoiNzYyYzFlN2YtNDZkMi00ZjRiLWE1YzYtNDZkMmQ1YTkyYWE4IiwidCI6IjI5MmQ3MDJjLWY4YWYtNGY4ZS1iYmNiLWU4NzkxZWUxOWYzZCJ9&pageName=ReportSectiona41eb7c78c21e1e20c00
-
