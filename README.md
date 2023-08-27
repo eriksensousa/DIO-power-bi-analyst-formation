@@ -15,5 +15,10 @@ These include:
  - Develop with the Power Platform
  - How to design and deliver compelling Power BI reports
 
-Overall, taking advantage of these training resources can help you learn new skills, gain confidence, and meet your goals quickly. By mastering the tools and techniques of Power BI, you can enhance your business analytics portfolio and drive a data culture within your organization.
+Leveraging these training resources can help me learn new skills, gain confidence, and reach my Business Intelligence and Analytics goals faster. By mastering Power BI tools and techniques, I was able to develop knowledge and enhance my business analytics portfolio and drive a data culture for organizations to achieve a high-impact level of excellence.
+
+
+
+Author: Eriksen Sousa
+[Power BI Specializt Formation 661EBC99.pdf](https://github.com/eriksensousa/DIO-power-bi-analyst-formation/files/12448904/Power.BI.Specializt.Formation.661EBC99.pdf)
 
